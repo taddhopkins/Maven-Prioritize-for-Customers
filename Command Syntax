@@ -1,0 +1,3 @@
+cd C:\Users\Tadd\Documents\Training\Prioritize\ForCustomers
+
+java -jar wss-unified-agent-20.9.1.jar -c wss-unified-agent.config -appPath C:\Users\Tadd\Documents\Training\Prioritize\ForCustomers\target\DummyMaven-1.0.jar -d C:\Users\Tadd\Documents\Training\Prioritize\ForCustomers
